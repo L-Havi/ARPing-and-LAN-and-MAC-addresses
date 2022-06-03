@@ -1,6 +1,6 @@
 This python script allows you to monitor your network interface and alerts you if it detects ARP spoofing attempts
 
-It uses broadcast MAC address in local area network to create ARP request using target IP address and LAN router IP address. This causes both router and target machine to update their ARP tables associating users IP address with router's/target's MAC address and redirecting all data frames through your machine
+It uses broadcast MAC address in local area network to create ARP request to detect any changes in current interface's ARP table. If changes are found it notifies user
 
 This script works in any UNIX based operating systems and in Windows if Python is installed
 

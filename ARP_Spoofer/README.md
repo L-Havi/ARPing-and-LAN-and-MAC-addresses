@@ -7,7 +7,7 @@ This script works in any UNIX based operating systems and in Windows if Python i
 ## Usage
 
 ```
-Syntax: python arp_spooff.py [--help] [--target TARGET IP] [--router ROUTER IP]
+Syntax: python arp_spoof.py [--help] [--target TARGET IP] [--router ROUTER IP]
 
 [*] Options:
   -t TARGET IP, --target TARGET IP                            Specify interface that is used

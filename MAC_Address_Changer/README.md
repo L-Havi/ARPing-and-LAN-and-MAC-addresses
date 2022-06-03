@@ -27,6 +27,6 @@ Executing with "python main.py -i eth0 -m 00:11:22:33:44:55"
 
 ![execute](https://user-images.githubusercontent.com/72817588/171944638-1a140414-6bd0-4ad9-b3b9-2b9b09c75efb.jpg)
 
-Now MAC address for interface eth0 has been changed to 00:11:22:33:44🈺
+Now MAC address for interface eth0 has been changed to 00:11:22:33:44:55
 
 ![result](https://user-images.githubusercontent.com/72817588/171945217-d0211ea9-5715-4ff1-8ba3-89a47d163b8d.jpg)

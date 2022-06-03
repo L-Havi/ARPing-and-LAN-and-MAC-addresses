@@ -18,7 +18,7 @@ Syntax: python network_scanner.py [--help] [--target TARGET IP]
   python -t 192.168.153.131                       Scans IP address 192.168.153.131 and displays it and its MAC address
   
   Range of IP addresses:
-  python -t 192.168.153.0/24                      Scan IP range 192.168.153.0 - 192.168.153.255 using CIDR notation and  
+  python -t 192.168.153.0/24                      Scans IP range 192.168.153.0 - 192.168.153.255 using CIDR notation and  
                                                   displays all IP addresses and their MAC addresses in this range
 
 ```

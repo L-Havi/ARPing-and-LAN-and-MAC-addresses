@@ -14,3 +14,8 @@ Syntax: python mac_changer.py [--help] [--interface INTERFACE] [--mac MAC]
   python mac_changer.py -i eth0 -m 00:11:22:33:44:55    Changes MAC address to 00:11:22:33:44:55 for interface eth0
 
 ```
+
+## Example
+
+Changing MAC Address in Kali Linux VM (Works also outside virtual machine but virtual machine is used in this example)
+

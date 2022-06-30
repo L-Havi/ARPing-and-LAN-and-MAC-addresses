@@ -7,7 +7,7 @@ This script works in any UNIX based operating systems and in Windows if Python i
 ## Usage
 
 ```
-Syntax: python arp_spooff.py [--help] [--interface INTERFACE]
+Syntax: python arp_spoof.py [--help] [--interface INTERFACE]
 
 [*] Options:
   -i INTERFACE, --interface INTERFACE                             Specify interface that is monitored

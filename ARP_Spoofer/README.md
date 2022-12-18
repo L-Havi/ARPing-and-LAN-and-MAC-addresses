@@ -10,8 +10,8 @@ This script works in any UNIX based operating systems and in Windows if Python i
 Syntax: python arp_spoof.py [--help] [--target TARGET IP] [--router ROUTER IP]
 
 [*] Options:
-  -t TARGET IP, --target TARGET IP                            Specify interface that is used
-  -r ROUTER IP, --router ROUTER IP                            Specify the new MAC address used in the chosen interface
+  -t TARGET IP, --target TARGET IP                            Specify target IP Address that is used
+  -r ROUTER IP, --router ROUTER IP                            Specify the router's IP Address
 
 
 [*] Example:
